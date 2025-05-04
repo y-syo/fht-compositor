@@ -1,7 +1,6 @@
 #![allow(clippy::ignored_unit_patterns)]
 #![allow(clippy::module_name_repetitions)]
 #![allow(clippy::too_many_lines)]
-#![feature(isqrt)]
 
 // Tracing since it's used project wide for logging
 #[macro_use]
